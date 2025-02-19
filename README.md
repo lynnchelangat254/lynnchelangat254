@@ -1,5 +1,6 @@
 ## Hey there 👋! I'm Lynn, a code enthusiast always tinkering with new tech.
 
+- 🎓 IT Student at KCA University | Passionate about technology and problem-solving 
 - 🔭 I’m currently working on SOMO Library Management System
 - 🌱 I’m currently learning Python, Django and Java
 - 👯 I’m looking to collaborate on Software Development Projects
