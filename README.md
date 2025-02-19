@@ -1,8 +1,4 @@
-## Hi there 👋
-
-**lynnchelangat254/lynnchelangat254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hey there 👋! I'm Lynn, a code enthusiast always tinkering with new tech.
 
 - 🔭 I’m currently working on SOMO Library Management System
 - 🌱 I’m currently learning Python, Django and Java
